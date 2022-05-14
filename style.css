@@ -1,0 +1,17 @@
+#body {
+  background: rgb(255,92,0);
+background: linear-gradient(90deg, rgba(255,92,0,1) 1%, rgba(255,142,40,1) 48%, rgba(255,141,59,1) 86%);
+}
+#paragrafo {
+  font-size: 43px;
+}
+#paragrafo2 {
+  font-size: 43px;
+}
+#btn{
+  width: 200px;
+    background-color: black;
+    height: 40px
+    color: white;
+}
+
