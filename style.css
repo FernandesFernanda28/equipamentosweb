@@ -1,17 +1,40 @@
-#body {
-  background: rgb(255,92,0);
-background: linear-gradient(90deg, rgba(255,92,0,1) 1%, rgba(255,142,40,1) 48%, rgba(255,141,59,1) 86%);
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300;8..144,400&display=swap');
+
+body {
+background: rgb(213,73,2);
+background: linear-gradient(90deg, rgba(213,73,2,1) 0%, rgba(255,101,0,1) 35%, rgba(255,155,0,1) 100%);
 }
-#paragrafo {
-  font-size: 43px;
+#pf1 {
+   font-size: 40px;
+   color: ##000000;
+   font-family: 'Montserrat', sans-serif;
 }
-#paragrafo2 {
-  font-size: 43px;
+#pf2 {
+  font-size: 33px;
+  color: ##000000;
+  font-family: 'Montserrat', sans-serif;
 }
-#btn{
-  width: 200px;
-    background-color: black;
-    height: 40px
-    color: white;
+.btn1{
+ width:200px; 
+ background-color: #ffffff; 
+ height:40px;  
+ color: black;
+ border-radius:10px ;
 }
 
+img {
+  width: 200px;
+  height: 200px;
+}
+
+#logo {
+  background-color: white;
+  width: max-content;
+  display: Flex;
+  margin-right: auto;
+  margin-left: auto;
+  border-radius: 300px;
+  margin-top: 50px;
+  box-shadow: 5px solid ;
+  
+}
