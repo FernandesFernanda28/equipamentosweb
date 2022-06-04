@@ -1,0 +1,25 @@
+#img {
+      width: 400px;
+    }
+   #btn1{
+    width: 200px;
+    background-color:#ff7f00;
+    height: 40px; 
+    color: black;
+    border-radius: 15px;
+    border: none;
+   }
+   #btn2{
+     width: 200px;
+    background-color:#ff7f00;
+    height: 40px; 
+    color: black;
+    border-radius: 15px;
+  border: none;
+   }
+   #strong {
+     font-size: 18px ;
+   }
+   #strong2{
+     font-size: 18px;
+   }
