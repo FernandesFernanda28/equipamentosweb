@@ -1,0 +1,42 @@
+#body {
+      background-color: white;
+    font-family: Sans-Serif;
+    text-align: center;
+    }
+#btn8{
+   width: 250px;
+    background-color:#ff7f00;
+    height: 50px;
+    border-radius: 18px;
+    border: none;
+}
+#btn9{
+   width: 250px;
+    background-color:#ff7f00;
+    height: 42px; 
+    border-radius: 18px;
+    border: none;
+}
+#btn10{
+  width: 250px;
+    background-color:#ff7f00;
+    height: 42px; 
+    border-radius: 18px;
+    border: none;
+}
+#btn11{
+  width: 250px;
+    background-color:#ff7f00;
+    height: 50px; 
+    border-radius: 18px;
+    border: none;
+}
+#img{
+width: 38px;
+}
+#h1{
+  height: 50px;
+}
+#img2{
+  width: 50px;
+}

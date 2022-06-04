@@ -1,0 +1,36 @@
+#body {
+  background-color: white;
+}
+
+#img {
+      width: 38px;
+}
+#img2 {
+      width: 50px;
+}
+#img3{
+  width: 180px;
+}
+#inp {
+  width: 300px;
+    background-color:#ff7f00 ;
+    height: 40px;
+    border-radius: 18px;
+    border: none;
+}
+#inp2 {
+width: 300px;
+    background-color:#ff7f00;
+    height: 40px;
+    border-radius: 18px;
+    border: none;
+}
+#btn {
+  width: 200px;
+    background-color: #ff7f00 ;
+    height: 40px;
+    border-radius: 18px;
+    border: none;
+color: black;
+font-size: 15px;  
+}
